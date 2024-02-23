@@ -1,7 +1,6 @@
 2to3==1.0
 absl-py==2.0.0
 anyio==3.7.1
-apturl==0.5.2
 argon2-cffi==21.3.0
 argon2-cffi-bindings==21.2.0
 arrow==1.2.3
@@ -41,7 +40,7 @@ defusedxml==0.7.1
 distlib==0.3.8
 distro==1.7.0
 distro-info==1.1+ubuntu0.1
-Django==5.0.1
+django==5.0.1
 djangorestframework==3.14.0
 duplicity==0.8.21
 et-xmlfile==1.1.0
